@@ -1,4 +1,4 @@
-# ML Journey 🚀
+# ML Journey
 
 Learning Python and Machine Learning from scratch.
 Started: June 2026
