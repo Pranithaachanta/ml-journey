@@ -2,7 +2,6 @@
 
 Learning Python and Machine Learning from scratch.
 Started: June 2026
-Goal: ML Engineer internship → Big Tech
 
 ## Progress
 - ✅ Day 1 — Setup, hello world
