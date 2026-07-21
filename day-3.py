@@ -20,6 +20,7 @@ print(f"Name Backwards: {name[::-1]}")
 x=25
 y=4
 print(f"Sum: {x+y}")
+print(f"difference {x-y}")
 print(f"Product: {x*y}")
 print(f"Divison: {x/y}")
 print(f"Floor Divison: {x//y}")
